@@ -80,7 +80,7 @@ To see how the app works, you can use the following pre-configured team and user
 
 ## Install Dependencies:
 
-    Run the following command from the root directory to install all dependencies:
+    Run the following command from the fornt end and backend root directory to install all dependencies:
     npm install
 
 ## Running the Application:
