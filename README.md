@@ -83,20 +83,6 @@ To see how the app works, you can use the following pre-configured team and user
     Run the following command from the root directory to install all dependencies:
     npm install
 
-## Environment Variables:
-
-    Create a .env file in both the backend and client directories and configure the following variables:
-
-# Backend (.env):
-
-    PORT=5000
-    MONGO_URI=your_mongodb_uri
-    JWT_SECRET=your_jwt_secret
-
-# Client (.env):
-
-    REACT_APP_API_URL=http://localhost:5000
-
 ## Running the Application:
 
     Start the application using the following command:
