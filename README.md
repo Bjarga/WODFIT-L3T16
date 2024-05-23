@@ -75,7 +75,7 @@ To see how the app works, you can use the following pre-configured team and user
 
 ### Repository:
 
-    github https://github.com/Bjarga/WODFIT-app
+    github https://github.com/Bjarga/WODFIT-L3T16
     cd wodfit
 
 ## Install Dependencies:
