@@ -18,7 +18,7 @@ WODFIT is a full-stack MERN application designed to help CrossFit groups and gym
 ### Registration and Login:
 
 - Users can register as either a coach or join an existing coach's group.
-- Secure login is available via email/password, Google, or Facebook.
+- Secure login is available via email/password, Google, or Facebook. (still under development)
 
 ### Pre-configured Team:
 
