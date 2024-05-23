@@ -120,4 +120,4 @@ To see how the app works, you can use the following pre-configured team and user
 
 ### Links
 
-Deployed Application: WODFIT App
+Deployed Application: [WODFIT App](https://wodfit-final.vercel.app/login)
